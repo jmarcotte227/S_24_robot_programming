@@ -1,1 +1,1 @@
-# S_24_robotic_programming
+# S_24_robot_programming
